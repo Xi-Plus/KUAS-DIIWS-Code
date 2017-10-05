@@ -10,4 +10,3 @@ cnt = 0
 for name in names:
 	print(name.get_text()+" "+emails[cnt].get_text())
 	cnt += 1
-
